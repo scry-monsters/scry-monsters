@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @scry-monsters
-- 👀 I’m interested in web dev and ML
-- 🐙 I’m currently on my last year of uni, so I don't post much
+- 👀 I’m a cyber security undergrad
+- 🐙 Currently on my last year of uni, so I don't post much
