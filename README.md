@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @scry-monsters
-- 👀 I’m a cyber security undergrad
-- 🐙 Currently on my last year of uni, so I don't post much
-![scry's GitHub stats](https://github-readme-stats.vercel.app/api?username=scry-monsters&theme=transparent&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=scry-monsters&layout=compact)
+<h2>Hey! I'm scry</h2>
+<br/>
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=scry-monsters&hide=contribs&theme=transparent&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scry-monsters&layout=compact" />
+</a>
+
